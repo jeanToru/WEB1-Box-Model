@@ -6,8 +6,8 @@
     color: white;
     margin: 20px 15px;
     border: 1px solid black;
-    width: 300px;
-    margin-left: 100px;
+    width: 280px;
+    margin-left: 108px;
 }
 
 .save:hover {
@@ -23,8 +23,8 @@
     color: black;
     margin: 20px 15px;
     border: 1px solid black;
-    width: 350px;
-    margin-left: 78px;
+    width: 330px;
+    margin-left: 88px;
 }
 
 .submit:hover {
@@ -40,8 +40,8 @@
     color: #616066;
     margin: 20px 15px;
     border: 1px solid #F0F0F0;
-    width: 400px;
-    margin-left: 50px;
+    width: 380px;
+    margin-left: 60px;
 }
 
 .cancel:hover {
