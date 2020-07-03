@@ -1,0 +1,15 @@
+.save {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    margin: 20px 15px;
+    border: 1px solid black;
+    width: 300px;
+}
+
+.save:hover {
+    background-color: white;
+    color: black;
+}
