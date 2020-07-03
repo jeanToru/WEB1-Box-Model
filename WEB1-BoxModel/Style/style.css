@@ -7,7 +7,7 @@
     margin: 20px 15px;
     border: 1px solid black;
     width: 300px;
-    margin-left: 40px;
+    margin-left: 70px;
 }
 
 .save:hover {
@@ -24,9 +24,26 @@
     margin: 20px 15px;
     border: 1px solid black;
     width: 350px;
+    margin-left: 45px;
 }
 
 .submit:hover {
     background-color: black;
     color: white;
+}
+
+.cancel {
+    background-color: #616066;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: #F0F0F0;
+    margin: 20px 15px;
+    border: 1px solid #616066;
+    width: 400px;
+}
+
+.cancel:hover {
+    background-color: #F0F0F0;
+    color: #616066;
 }
