@@ -7,7 +7,7 @@
     margin: 20px 15px;
     border: 1px solid black;
     width: 300px;
-    margin-left: 70px;
+    margin-left: 100px;
 }
 
 .save:hover {
@@ -24,7 +24,7 @@
     margin: 20px 15px;
     border: 1px solid black;
     width: 350px;
-    margin-left: 45px;
+    margin-left: 78px;
 }
 
 .submit:hover {
@@ -33,17 +33,35 @@
 }
 
 .cancel {
-    background-color: #616066;
-    padding: 20px;
+    background-color: #F0F0F0;
+    padding: 25px;
     text-align: center;
     font-size: 30px;
-    color: #F0F0F0;
+    color: #616066;
     margin: 20px 15px;
-    border: 1px solid #616066;
+    border: 1px solid #F0F0F0;
     width: 400px;
+    margin-left: 50px;
 }
 
 .cancel:hover {
-    background-color: #F0F0F0;
-    color: #616066;
+    background-color: #616066;
+    color: #F0F0F0;
+}
+
+.sing {
+    background-color: #0074DA;
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    margin: 20px 15px;
+    border: 1px solid #0074DA;
+    width: 450px;
+    margin-left: 20px;
+}
+
+.sing:hover {
+    background-color: white;
+    color: #0074DA;
 }
