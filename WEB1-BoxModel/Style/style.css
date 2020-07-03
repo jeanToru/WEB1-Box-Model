@@ -7,9 +7,26 @@
     margin: 20px 15px;
     border: 1px solid black;
     width: 300px;
+    margin-left: 40px;
 }
 
 .save:hover {
     background-color: white;
     color: black;
+}
+
+.submit {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    margin: 20px 15px;
+    border: 1px solid black;
+    width: 350px;
+}
+
+.submit:hover {
+    background-color: black;
+    color: white;
 }
